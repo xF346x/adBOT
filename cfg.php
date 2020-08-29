@@ -8,3 +8,4 @@ $ssidltc = "";
 $ssiddoge = "";
 $ssidbch = "";
 $valsurf = "SAsurf=SAsurfVal";
+$key = "7sKXmRTDPxBAoHQ";
