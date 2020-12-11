@@ -2,7 +2,6 @@
 
 /* Config adBOT.cc */
 
-$key = "";
 $valsurf = "SAsurf=SAsurfVal";
 $useragent = "";
 $ssidzec = "";
